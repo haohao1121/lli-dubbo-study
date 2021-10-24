@@ -1,0 +1,4 @@
+# Project exclude paths
+/lli-dubbo-basic-spring-boot-starter/target/
+/lli-dubbo-nacos-example/lli-dubbo-nacos-config/target/
+/lli-dubbo-nacos-example/lli-dubbo-nacos-discovery/target/
