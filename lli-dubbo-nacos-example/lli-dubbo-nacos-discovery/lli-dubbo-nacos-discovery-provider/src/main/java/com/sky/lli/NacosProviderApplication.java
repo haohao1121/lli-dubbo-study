@@ -11,8 +11,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @EnableDubbo
 @SpringBootApplication
-public class NacosDiscoveryApplication {
+public class NacosProviderApplication {
     public static void main(String[] args) {
-        SpringApplication.run(NacosDiscoveryApplication.class, args);
+        SpringApplication.run(NacosProviderApplication.class, args);
     }
 }
